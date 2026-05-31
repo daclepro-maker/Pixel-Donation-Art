@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Donation",
+  "description": "Minimalist digital art fundraising platform where donors can secure pixels from a 10-million grid, view leaderboards, and track donation milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
